@@ -28,4 +28,4 @@ Each project follows the same chain: **Risk → Control → Evidence → Test �
 NIST CSF 2.0 · SOC 2 Trust Services Criteria · ISO/IEC 27001 · ITGC testing practices
 
 ## About the author
-Joseph Okafor, IT support professional moving into IAM governance and GRC. B.S. in Information Assurance and Cybersecurity (Capella University). Security+, BTL1, A+; CompTIA CySA+ in progress.
+Joseph Okafor, IT professional moving into IAM governance and GRC. B.S. in Information Assurance and Cybersecurity. Security+, A+; Studying for my CISA, .
