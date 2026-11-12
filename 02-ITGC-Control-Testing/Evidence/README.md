@@ -15,4 +15,4 @@ Source reports for the ITGC tests at **Apex Financial Services**. Each workbook 
 
 **Audit period:** July 1 – September 30, 2026 (simulated). Reports generated October 5, 2026.
 
-Results are recorded in `ITGC-Test-Results.xlsx` (planned).
+Results are recorded in `ITGC-Test-Results.xlsx`.

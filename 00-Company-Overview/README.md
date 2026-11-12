@@ -34,12 +34,10 @@ apex-financial-grc/
 ├── 04-ISO27001/
 ├── 05-IAM-Governance/
 ├── 06-ServiceNow-IRM/
-├── 07-Executive-Reporting/
-├── 08-AI-Governance/
-└── 09-Financial-Services-Positioning/
+└── 07-Executive-Reporting/
 ```
 ## About This Portfolio
 
-This repository demonstrates hands-on GRC and IAM governance skills through simulated work against a fictional financial services organization. Frameworks referenced include NIST CSF 2.0, SOC 2, ISO/IEC 27001, and the NIST AI Risk Management Framework.
+This repository demonstrates hands-on GRC and IAM governance skills through simulated work against a fictional financial services organization. Frameworks referenced include NIST CSF 2.0, SOC 2 and ISO/IEC 27001.
 
 **All data in this repository is fictional.** No real company, employee, customer, or system information is used anywhere in this portfolio.

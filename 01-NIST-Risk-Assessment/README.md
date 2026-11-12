@@ -14,9 +14,9 @@ translate technical findings into business risk language, and communicate
 priorities to leadership through an executive-ready report.
 
 ## Methodology
-1. **Asset Inventory** — Cataloged 15–20 critical assets across departments, 
+1. **Asset Inventory** — Cataloged 18 critical assets across departments, 
    with owners, data classification, and criticality ratings.
-2. **Threat Assessment** — Identified 10–15 realistic threats (credential 
+2. **Threat Assessment** — Identified 13 realistic threats (credential 
    theft, ransomware, privileged-account abuse, vendor compromise) drawn 
    from current threat intelligence sources (CISA advisories, Verizon DBIR).
 3. **Risk Register** — Scored each risk as Likelihood × Impact and mapped 
